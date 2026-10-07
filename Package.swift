@@ -17,7 +17,7 @@ let package = Package(
         .binaryTarget(
             name: "MapplsNearbyUI",
             url: "https://mmi-api-team.s3.amazonaws.com/Mappls-SDKs/iOS_Legacy_Auth/MapplsNearbyUI/MapplsNearbyUI.xcframework-1.0.3.zip",
-            checksum: "8f6fde2acfae75608f252bc24b1e249874cde3e687febf5b611f87c141b53b85"
+            checksum: "c88ec826def32a43c931ba0d95fd3cab991061c6036e2c7a418d1de7fbf008d7"
         )
     ]
 )
